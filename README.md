@@ -11,4 +11,4 @@ Esse projeto está sendo construído em parceria com o [Gustavo Bruschi](https:/
 - [ ] Procurar um dataset para aplicar os estudos
 - [ ] Criar um notebook inicial par a aplicação da modelagem de uplift
 - [ ] Ajustar os textos para publicação
-- [] Tutorial no README para deixar o código reprodutível
+- [ ] Tutorial no README para deixar o código reprodutível
