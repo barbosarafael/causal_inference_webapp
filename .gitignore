@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# raw data
+
+01-data/01-raw/criteo-research-uplift-v2.1.csv.gz
